@@ -8,7 +8,7 @@ class VeriTabani{
 	{
 		if($this->baglanti==null)
 		{
-			 $this->baglanti=mysqli_connect("localhost","u834088604_burak","ps1oqmaq","u834088604_soa");
+			 $this->baglanti=mysqli_connect("localhost","root"," ","u834088604_soa");
 		}
 
 		else
